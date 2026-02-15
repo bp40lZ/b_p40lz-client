@@ -1,4 +1,4 @@
-# Alien (Fabric 1.21.1)
+# b_p40lz (Fabric 1.21.1)
 
 A Fabric client mod for Minecraft 1.21.1.
 
